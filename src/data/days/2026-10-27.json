@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-27",
+  "status": "in-progress",
+  "weightKg": null,
+  "meals": [
+    {
+      "name": "Breakfast",
+      "description": "6 idli with peanut chutney, 2 egg whites, and a small piece of banana cake.",
+      "calories": 615,
+      "protein": 24,
+      "carbs": 94,
+      "fat": 16
+    },
+    {
+      "name": "Lunch",
+      "description": "Rice (120 g) with a small serving of dal, a very small serving of gobi matar, and approximately 250 g of starter-style honey chilli/dragon chicken.",
+      "calories": 895,
+      "protein": 43,
+      "carbs": 92,
+      "fat": 39
+    },
+    {
+      "name": "Evening",
+      "description": "1 cup of tea with milk and sugar.",
+      "calories": 90,
+      "protein": 3,
+      "carbs": 12,
+      "fat": 3
+    },
+    {
+      "name": "Dinner",
+      "description": "2 roti, 1 paneer paratha, 1 bowl of gobi matar, and 1 cup of sweetened curd.",
+      "calories": 890,
+      "protein": 29,
+      "carbs": 117,
+      "fat": 37
+    }
+  ],
+  "training": [],
+  "reflection": "",
+  "media": []
+}
