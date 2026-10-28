@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-28",
+  "status": "in-progress",
+  "weightKg": null,
+  "meals": [
+    {
+      "name": "Breakfast",
+      "description": "1 paneer paratha and 1 egg bhurji.",
+      "calories": 520,
+      "protein": 20,
+      "carbs": 55,
+      "fat": 24
+    },
+    {
+      "name": "Lunch",
+      "description": "Rice with dal, bhindi fry, and half an egg bhurji.",
+      "calories": 600,
+      "protein": 19,
+      "carbs": 82,
+      "fat": 21
+    },
+    {
+      "name": "After lunch",
+      "description": "1 coffee.",
+      "calories": 90,
+      "protein": 3,
+      "carbs": 12,
+      "fat": 3
+    },
+    {
+      "name": "Dinner",
+      "description": "1 roti and soyabean.",
+      "calories": 320,
+      "protein": 18,
+      "carbs": 39,
+      "fat": 10
+    }
+  ],
+  "training": [
+    {
+      "name": "Back pulley",
+      "description": "4 sets × 16 reps · 32.5 kg"
+    },
+    {
+      "name": "Lat press",
+      "description": "4 sets × 12 reps · 32.5 kg"
+    },
+    {
+      "name": "Lat pulldown close grip",
+      "description": "4 sets × 10 reps · 35 kg"
+    },
+    {
+      "name": "Dumbbell flyway",
+      "description": "3 sets × 10 reps · 15 kg each arm"
+    }
+  ],
+  "reflection": "",
+  "media": []
+}
